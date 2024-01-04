@@ -1,0 +1,74 @@
+Summary Date for Account Number:,213139452,,,,,,
+Meter Bill Group Number:,20,,,,,,
+,,,,,,,
+Capacity PLC,Start Date,End Date,,,,,
+81.3259,6/1/2021,5/31/2022,,,,,
+126.4206,6/1/2022,5/31/2023,,,,,
+,,,,,,,
+Network Service PLC,Start Date,End Date,,,,,
+134.5349,1/1/2022,12/31/2022,,,,,
+,,,,,,,
+Minimum Stay Date,,,,,,,
+Condo Exception,NO,,,,,,
+"15,000 kWh or less annually",NO,,,,,,
+,,,,,,,
+AC Cycling,NO,,,,,,
+Net Metering,NO,,,,,,
+Peak Time Savings,NO,,,,,,
+Community Solar,NO,,,,,,
+Assistance_Program,NO,,,,,,
+,,,,,,,
+Current Supply Grp.,COMP DECL SUPPLY GROUP,,,,,,
+Effective Start Date,5/25/2021,,,,,,
+,,,,,,,
+Pending Supply Grp.,N/A,,,,,,
+Effective Start Date,N/A,,,,,,
+,,,,,,,
+Rate**,End of Billing Period,Days in Billing Period,Total KWH Usage,On-Peak KWH Usage,Off-Peak KWH Usage,Billing Demand (KW),Monthly Peak Demand (KW)
+H74,12/27/2021,35,39178,0,0,85.44,85.44
+H74,11/22/2021,31,33910,0,0,80.16,80.16
+H74,10/22/2021,29,33776,0,0,98.72,98.72
+H74,9/23/2021,30,41535,0,0,134.64,134.64
+H74,8/24/2021,29,39217,0,0,124.48,124.48
+H74,7/26/2021,32,38401,0,0,114,114
+H74,6/24/2021,30,36804,0,0,117.28,117.28
+B74,5/25/2021,29,43788,0,0,125.04,125.04
+B74,4/26/2021,31,56278,0,0,129.76,129.76
+B74,3/26/2021,29,52778,0,0,118.64,118.64
+B74,2/25/2021,29,57511,0,0,119.6,119.6
+B74,1/27/2021,30,56794,0,0,118.16,118.16
+B74,12/28/2020,35,60706,0,0,122.32,122.32
+B74,11/23/2020,31,44697,0,0,117.76,117.76
+B73,10/23/2020,30,33400,0,0,123.28,124.64
+B73,9/23/2020,30,29200,0,0,97.36,97.36
+B73,8/24/2020,31,31800,0,0,97.2,97.2
+B73,7/24/2020,30,23400,0,0,94.24,94.24
+B73,6/24/2020,29,8400,0,0,56.8,57.92
+B73,5/26/2020,32,9400,0,0,46.96,46.96
+B73,4/24/2020,29,5400,0,0,38,38
+B73,3/26/2020,29,4600,0,0,20.64,21.04
+B73,2/26/2020,29,5600,0,0,39.68,39.68
+B73,1/28/2020,33,5840,0,0,21.53,21.53
+,,,,,,,
+**Rate Legend,,,,,,,
+B73 = Commercial Demand - 0 to 100 kW              ,,,,,,,
+B74 = Commercial Demand - 100 to 400 kW            ,,,,,,,
+H74 = Commercial Hourly - 100 kW to 400 kW         ,,,,,,,
+,,,,,,,
+Summary usage data is displayed at the rate level for each billing period. Accounts may have more than one rate.,,,,,,,
+,,,,,,,
+Monthly Peak Demand represents the coincidental peak demand during the billing period for all meters on an account.,,,,,,,
+,,,,,,,
+"N/A = PLC value and/or Supply Group data is not currently available, please use the Data Request form to obtain the current PLC values.",,,,,,,
+,,,,,,,
+"ComEd, as an Electric Distribution Company (EDC) member of the PJM Interconnection, LLC (PJM), is responsible for",,,,,,,
+determining the Peak Load Contribution (PLC) for each load serving entity within the ComEd zone. Two unique values,,,,,,,
+are created for each electric account: Capacity PLC and Network Service PLC. Retail Electric Suppliers may use,,,,,,,
+these account values in determining supply and transmission resources and requirements for associated customers.,,,,,,,
+,,,,,,,
+"15,000 kWh evaluation is based on sum of kWh usage for prior calendar year and is",,,,,,,
+applicable to commercial customers only.  Evaluation takes place annually on the second,,,,,,,
+"Saturday of March.  If usage request is made between Jan 1 and the 2nd Saturday of March,",,,,,,,
+then the indicator will be based on the calendar year 2 years prior.  For example, if a usage request is,,,,,,
+"made on Feb 15th, 2013, the indicator will be based on 2011 calendar year usage.  If a usage",,,,,,,
+"request is made on April 5th, then it will be based on 2012 calendar year usage.",,,,,,,
