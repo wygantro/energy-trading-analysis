@@ -91,19 +91,3 @@ hold on
 %ylabel ('USD')
 %xlabel('time')
 %hold on
-
-
-%% consumption sub model
-
-%% production sub model
-
-%% storage sub model
-
-%% financial model
-
-
-%% cost
-%net metering=cumtrapz(net power - power credits)
-%net billing= cumtrapz(net power*rate)
-%show how net metering would look with a sample that would benefit from the
-%offset well... high energy use at different time of the day
